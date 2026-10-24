@@ -1,0 +1,6 @@
+participant_label,theme,original_comment,prototype_comment,artifact_cross_check
+P1,Navigation,Many categories; uncertain starting point,Named top links make destination clearer,Matching navigation labels are present.
+P2,Feature understanding,Dense feature descriptions,Separate feature cards and demonstration help comprehension,Feature cards and illustrative device/privacy/identity tabs are present.
+P3,Plan comparison,Hard to compare inclusions and choose,Side-by-side plans feel easier to compare,Plan cards and overview table are present. Individual/family switching is NOT present; preserve but do not validate that claim.
+P4,Attention and readability,Competing promotional and product content,"Headings, spacing, colour and motion feel clearer",Styles support these design intentions; no measured reading speed or accessibility outcome.
+P5,Support and reassurance,Extra searching for refund and support details,Guarantee and expandable answers feel discoverable,"Guarantee banner, support link and refund FAQ are present."
