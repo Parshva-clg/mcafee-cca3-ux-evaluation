@@ -5,7 +5,7 @@ Final CCA3 assignment comparing the original McAfee India website with the redes
 ## Group and prototype
 
 - Project owner: Parshva Bora.
-- Other group members: not provided.
+- Other group members: Ashlesha Gawkar, Hriday Sonawane.
 - Original: https://www.mcafee.com/en-in/index.html
 - [Figma comparison and annotated wireframe](https://www.figma.com/design/8a9YHwjJCdl8i0eRuRhmLt).
 - [Supplied HTML prototype](prototype/mcafee-india-redesign.html).
@@ -60,7 +60,6 @@ All five profiles are male, ages 18–21 (mean 20.2). Screen time: one under fou
 - `reports/`: updated brief conclusion in Word and Markdown.
 - `prototype/`: supplied HTML, unchanged.
 - `scripts/analyze_survey.py`: reproducible calculations, using only Python's standard library.
-- `SUBMISSION_STATUS.md`: remaining submission requirements.
 
 ## Recalculate
 
