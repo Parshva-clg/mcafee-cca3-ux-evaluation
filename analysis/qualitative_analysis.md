@@ -32,4 +32,4 @@ P3's individual/family switch claim conflicts with the actual HTML, whose select
 
 ## Study limitations
 
-Five people would provide exploratory feedback, not representative validation. Five short topic-specific excerpts do not establish that every person completed the same core task on both versions. An original-first order, if used as instructed, introduces learning/order effects. The attached prototype is HTML, while the assignment asks for Figma; no Figma URL was supplied. Full interaction accessibility and real security functionality were not tested.
+Five people would provide exploratory feedback, not representative validation. Five short topic-specific excerpts do not establish that every person completed the same core task on both versions. An original-first order, if used as instructed, introduces learning/order effects. The tested artifact supplied initially was HTML. A Figma comparison was subsequently created at https://www.figma.com/design/8a9YHwjJCdl8i0eRuRhmLt; it is an editable reconstruction, not evidence that participants tested that later file. Full interaction accessibility and real security functionality were not tested.
