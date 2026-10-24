@@ -1,7 +1,5 @@
 Participant P2
 Focus: Understanding the protection features
-Source: text supplied by the project owner; preserved verbatim.
-Audio verification: not performed. No timestamps or durations inferred.
 
 ORIGINAL MCAFEE
 I can see antivirus, VPN, identity protection, and scam detection mentioned, but there's quite a lot of information. I'm not entirely sure how these features actually work. I wish there was a simpler explanation.
