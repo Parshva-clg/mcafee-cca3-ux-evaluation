@@ -1,0 +1,10 @@
+Participant P5
+Focus: Finding support and reassurance
+Source: text supplied by the project owner; preserved verbatim.
+Audio verification: not performed. No timestamps or durations inferred.
+
+ORIGINAL MCAFEE
+Before buying, I want to check the refund policy and support options. I can find some information, but there's a lot to read. I have to spend extra time looking through the details.
+
+REDESIGNED PROTOTYPE
+I can immediately see the money-back guarantee and customer assistance information. The support section and expandable questions are easy to find. I feel more confident because the important information is presented without unnecessary searching.

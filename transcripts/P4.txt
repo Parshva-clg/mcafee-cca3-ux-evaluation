@@ -1,0 +1,10 @@
+Participant P4
+Focus: Visual hierarchy and readability
+Source: text supplied by the project owner; preserved verbatim.
+Audio verification: not performed. No timestamps or durations inferred.
+
+ORIGINAL MCAFEE
+There is a lot happening on this page. I see promotional information, product descriptions, and different sections. I'm finding it difficult to focus on one thing because several elements seem equally important to me.
+
+REDESIGNED PROTOTYPE
+This design feels much more comfortable to navigate. The headings are prominent, the sections have enough spacing, and the colours guide my attention. The subtle animations also make the page feel smoother without being distracting.

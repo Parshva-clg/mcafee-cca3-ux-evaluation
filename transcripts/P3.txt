@@ -1,0 +1,10 @@
+Participant P3
+Focus: Comparing subscription plans
+Source: text supplied by the project owner; preserved verbatim.
+Audio verification: not performed. No timestamps or durations inferred.
+
+ORIGINAL MCAFEE
+I'm trying to choose a plan, but I have to look through different features and compare what's included. There are quite a few details to process, and I'm not immediately sure which option suits me.
+
+REDESIGNED PROTOTYPE
+This is much easier to compare. The plans are displayed side by side, and the important features are listed clearly. I can also switch between individual and family options, which makes choosing a plan simpler.
