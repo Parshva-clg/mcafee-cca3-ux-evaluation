@@ -1,29 +1,33 @@
 # McAfee India comparative UX evaluation
 
-## Scope and evidence
+Updated 25 October 2026.
 
-The supplied comments suggest that the McAfee India redesign is easier to understand and navigate. This is a preliminary qualitative interpretation, not completed mixed-methods validation. Five pairs of comments labelled P1 to P5 and five audio files were provided. The text has been preserved without independently checking it against the recordings. The prototype supplied for inspection is HTML; a Figma link and an authentic survey response export were not supplied.
+## Study scope and evidence
 
-## Qualitative findings
+The supplied ratings indicate a substantial improvement in perceived UX for the McAfee India redesign: the overall descriptive mean increased from 3.77/10 to 9.39/10, a gain of 5.62 scale points. This conclusion applies to five supplied paired records and is supported by the accompanying comments. It does not establish objective task performance or a population-wide improvement.
 
-P1 describes uncertainty about navigation categories on the original and clearer destinations in the redesign. P2 reports difficulty understanding the original feature descriptions and finds separate feature cards and an illustrative demonstration easier to understand. These comments support the design intention of reducing search effort and explaining protection in smaller sections.
+## Data and method
 
-P3 prefers the side-by-side plan presentation. P4 describes competing elements on the original and clearer headings, spacing and colour in the redesign. P5 reports that the guarantee, support section and expandable questions are easier to find. Together, these comments suggest improvements in perceived organisation, readability and reassurance. Navigation, feature explanation, comparison, readability and support each have one directly relevant labelled pair; they were not each observed in all five comments.
+Five original-site rows and five redesigned-site rows were supplied by the project owner, each containing 18 ratings. The official Google Form was inspected on 25 October 2026 to verify all question labels, their order and the 1-to-10 scale. Corresponding rows were paired in the order supplied and labelled P1 to P5. The analysis preserves all 180 ratings and calculates 90 within-person item differences, 18 parameter summaries and five participant averages. The overall mean weights each item equally; it is a descriptive summary, not a standardized UX score.
 
-## Prototype cross check
+## Quantitative results
 
-The HTML contains Protection, How it works, Plans and Support links; separate feature cards; interactive device, privacy and identity illustrations; plan cards; and refund and support information. However, P3 mentions an individual/family switch that is absent. The implemented selector instead offers All-round protection and My devices. The original wording is retained, but that specific claim cannot be treated as a demonstrated improvement. Live prices and an end-to-end purchase flow are also absent, so improved purchase performance has not been established.
+Every supplied redesigned rating exceeds its corresponding original rating, and each of the five participant averages improves. Search and Discoverability shows the largest mean gain, from 2.60 to 9.40 (+6.80). Usability and User Satisfaction both rise from 3.40 to 10.00 (+6.60). Efficiency of Interaction shows the smallest gain, from 5.60 to 9.20 (+3.60). Original ratings range from 1 to 8, and redesigned ratings from 8 to 10. Near-ceiling redesign ratings leave limited room to distinguish between further improvements.
 
-## Quantitative status
+## Participant profile
 
-At the project owner's request, a separate demonstration dataset contains five fictional cases rated across 18 provisional UX parameters. Every row and summary is labelled synthetic. These are not responses from P1 to P5. The official survey wording and rating scale could not be verified, and no genuine response export was available. The demonstration uses an assumed favourable 1-to-5 scale and an intentionally improvement-leaning generator. Its means and paired differences show the calculation format only; they do not validate the prototype or confirm the qualitative interpretation.
+The supplied records describe five male participants aged 18 to 21, with a mean age of 20.2 years. One reports under four hours of daily screen time, three report four to eight hours, and one reports over eight hours. Other profile answers were not supplied and are recorded as Not provided. The narrow age range and all-male sample limit generalisation.
 
-## Methodological limitations
+## Qualitative interpretation
 
-The five excerpts are brief and uniformly positive about the redesign. Recruitment independence, facilitation, consent and spontaneous think-aloud behaviour are not established by the supplied files. Prepared think-aloud scripts appear in earlier project context, so these statements cannot automatically be classified as spontaneous observations. Each excerpt addresses a different focus; the record does not establish that all five people performed one identical core task on both versions.
+The supplied P1 comments favour clearer navigation labels, aligning with the Navigation Structure increase from 3.60 to 9.60. P2 favours separate feature explanations and an illustrative demonstration. P3 prefers side-by-side plans. P4 describes better headings and spacing, consistent with the visual Hierarchy increase from 3.40 to 9.00. P5 finds refund and support information more readily, consistent with improved discoverability and reassurance. These comments explain possible reasons for the higher ratings; they do not measure speed or error reduction.
 
-No measured completion times, click counts, errors or task success rates were supplied. If the original-first sequence in the assignment was followed, learning and order effects may influence the comparison. Even a verified five-person study would provide exploratory evidence rather than a population-level conclusion. Visual design intentions do not demonstrate accessibility compliance or working antivirus, VPN or identity protection. The HTML itself identifies those states as illustrative.
+## Discrepancies and limitations
 
-## Conclusion
+The P3 comment mentions individual/family switching, but the supplied HTML offers All-round protection and My devices. That specific claim remains unverified and is not counted as an implemented improvement. The text has not been independently checked against the recordings. Ratings and demographics were supplied in chat rather than imported from a response export. Row pairing, association with transcript labels, participant independence and the exact task procedure require source verification.
 
-The supplied comments are consistent with a redesign that improves perceived navigation clarity, feature understanding, plan presentation, readability and access to reassurance. The available record supports a promising design direction, with a specific discrepancy in the plan-switching comment. It does not establish that the redesign has been quantitatively validated. A defensible final mixed-methods conclusion requires authentic paired survey responses, verification of the comments against the recordings, and confirmation of task and prototype details. Synthetic data remains a disclosed demonstration appendix and is excluded from the effectiveness judgment.
+The redesigned rating sequences for P1 and P5 are identical. Both have been retained unchanged and flagged for checking against the original records. Eighteen ratings from one person are correlated observations: the study has five participants, not 90. No significance test or causal claim is reported. An original-first order may introduce learning effects. Perceived accessibility, performance and security are not compliance, timing or security tests. The Figma comparison was created after the supplied HTML and must not be assumed to be the artifact originally tested.
+
+## Final conclusion
+
+Within the five supplied records, the redesign is rated more favourably on every one of the 18 UX parameters. The accompanying comments are consistent with clearer organisation, easier feature understanding, more readable content and more visible support. The evidence supports improved perceived UX in this small evaluation, subject to the noted data and procedure checks. It does not establish universal effectiveness. The earlier demonstration dataset is excluded from all current calculations; missing responses have not been generated or imputed.
