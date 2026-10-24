@@ -17,7 +17,8 @@
 - Audio-to-text correspondence, recruitment independence and the exact shared task need verification.
 - Figma link is missing; HTML does not substitute for the requested Figma deliverable.
 - Prior exercises/practical Word, Excel or PDF files have not been supplied.
-- Public GitHub publication is not completed by this local package.
+- Public GitHub repository created: https://github.com/Parshva-clg/mcafee-cca3-ux-evaluation
+- Prepared files published in the required folders; survey CSVs remain explicitly synthetic.
 - Figma view access for shbichauhan@gmail.com and piyush.chauhan@mitwpu.edu.in has not been granted.
 - The final submission form has not been submitted: https://forms.gle/AKN5BmKRbRU1JzvT6
 
