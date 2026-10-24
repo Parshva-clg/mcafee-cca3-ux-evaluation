@@ -1,0 +1,6 @@
+participant_id,age_years,gender,daily_screen_time,prior_original_use,domain_use_frequency,corrective_lenses_or_colour_vision_deficiency,handedness,regular_fast_paced_games,computer_science_interest
+P1,21,Male,Under 4 hours,Not provided,Not provided,Not provided,Not provided,Not provided,Not provided
+P2,21,Male,4 to 8 hours,Not provided,Not provided,Not provided,Not provided,Not provided,Not provided
+P3,20,Male,4 to 8 hours,Not provided,Not provided,Not provided,Not provided,Not provided,Not provided
+P4,18,Male,4 to 8 hours,Not provided,Not provided,Not provided,Not provided,Not provided,Not provided
+P5,21,Male,Over 8 hours,Not provided,Not provided,Not provided,Not provided,Not provided,Not provided

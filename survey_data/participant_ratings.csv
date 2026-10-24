@@ -1,0 +1,91 @@
+participant_id,question_number,parameter,original_rating,redesigned_rating,paired_difference
+P1,1,Learnability,2,8,6
+P1,2,Usability,3,10,7
+P1,3,Consistency,4,9,5
+P1,4,Use of Metaphors,3,10,7
+P1,5,Navigation Structure,4,10,6
+P1,6,visual Hierarchy,3,9,6
+P1,7,Accessibility,2,10,8
+P1,8,Responsiveness,3,10,7
+P1,9,Efficiency of Interaction,4,9,5
+P1,10,Feedback and System Status,2,10,8
+P1,11,Error Prevention and Recovery,5,10,5
+P1,12,Aesthetic and Minimalist Design,4,9,5
+P1,13,Content Readability,3,8,5
+P1,14,Search and Discoverability,2,9,7
+P1,15,Performance Perception,3,9,6
+P1,16,Trust and Credibility,4,9,5
+P1,17,Personalization,3,10,7
+P1,18,User Satisfaction,4,10,6
+P2,1,Learnability,3,10,7
+P2,2,Usability,4,10,6
+P2,3,Consistency,5,9,4
+P2,4,Use of Metaphors,4,8,4
+P2,5,Navigation Structure,3,9,6
+P2,6,visual Hierarchy,4,9,5
+P2,7,Accessibility,5,9,4
+P2,8,Responsiveness,4,10,6
+P2,9,Efficiency of Interaction,5,10,5
+P2,10,Feedback and System Status,6,8,2
+P2,11,Error Prevention and Recovery,7,10,3
+P2,12,Aesthetic and Minimalist Design,6,9,3
+P2,13,Content Readability,5,10,5
+P2,14,Search and Discoverability,4,10,6
+P2,15,Performance Perception,5,9,4
+P2,16,Trust and Credibility,6,10,4
+P2,17,Personalization,5,10,5
+P2,18,User Satisfaction,3,10,7
+P3,1,Learnability,3,8,5
+P3,2,Usability,4,10,6
+P3,3,Consistency,2,9,7
+P3,4,Use of Metaphors,1,10,9
+P3,5,Navigation Structure,1,10,9
+P3,6,visual Hierarchy,1,9,8
+P3,7,Accessibility,4,10,6
+P3,8,Responsiveness,5,10,5
+P3,9,Efficiency of Interaction,6,9,3
+P3,10,Feedback and System Status,7,9,2
+P3,11,Error Prevention and Recovery,3,9,6
+P3,12,Aesthetic and Minimalist Design,2,9,7
+P3,13,Content Readability,2,8,6
+P3,14,Search and Discoverability,2,10,8
+P3,15,Performance Perception,1,9,8
+P3,16,Trust and Credibility,3,9,6
+P3,17,Personalization,4,10,6
+P3,18,User Satisfaction,1,10,9
+P4,1,Learnability,4,9,5
+P4,2,Usability,3,10,7
+P4,3,Consistency,2,10,8
+P4,4,Use of Metaphors,3,9,6
+P4,5,Navigation Structure,4,9,5
+P4,6,visual Hierarchy,5,9,4
+P4,7,Accessibility,6,9,3
+P4,8,Responsiveness,7,9,2
+P4,9,Efficiency of Interaction,8,9,1
+P4,10,Feedback and System Status,5,10,5
+P4,11,Error Prevention and Recovery,4,10,6
+P4,12,Aesthetic and Minimalist Design,3,8,5
+P4,13,Content Readability,5,10,5
+P4,14,Search and Discoverability,4,9,5
+P4,15,Performance Perception,5,10,5
+P4,16,Trust and Credibility,4,10,6
+P4,17,Personalization,3,9,6
+P4,18,User Satisfaction,2,10,8
+P5,1,Learnability,2,8,6
+P5,2,Usability,3,10,7
+P5,3,Consistency,4,9,5
+P5,4,Use of Metaphors,5,10,5
+P5,5,Navigation Structure,6,10,4
+P5,6,visual Hierarchy,4,9,5
+P5,7,Accessibility,3,10,7
+P5,8,Responsiveness,2,10,8
+P5,9,Efficiency of Interaction,5,9,4
+P5,10,Feedback and System Status,4,10,6
+P5,11,Error Prevention and Recovery,3,10,7
+P5,12,Aesthetic and Minimalist Design,2,9,7
+P5,13,Content Readability,2,8,6
+P5,14,Search and Discoverability,1,9,8
+P5,15,Performance Perception,4,9,5
+P5,16,Trust and Credibility,5,9,4
+P5,17,Personalization,6,10,4
+P5,18,User Satisfaction,7,10,3

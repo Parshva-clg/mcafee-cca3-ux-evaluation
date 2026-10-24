@@ -1,0 +1,19 @@
+question_number,parameter,n_paired,original_mean,redesigned_mean,mean_difference,original_median,redesigned_median,participants_with_higher_redesign_rating
+1,Learnability,5,2.8,8.6,5.8,3,8,5
+2,Usability,5,3.4,10,6.6,3,10,5
+3,Consistency,5,3.4,9.2,5.8,4,9,5
+4,Use of Metaphors,5,3.2,9.4,6.2,3,10,5
+5,Navigation Structure,5,3.6,9.6,6,4,10,5
+6,visual Hierarchy,5,3.4,9,5.6,4,9,5
+7,Accessibility,5,4,9.6,5.6,4,10,5
+8,Responsiveness,5,4.2,9.8,5.6,4,10,5
+9,Efficiency of Interaction,5,5.6,9.2,3.6,5,9,5
+10,Feedback and System Status,5,4.8,9.4,4.6,5,10,5
+11,Error Prevention and Recovery,5,4.4,9.8,5.4,4,10,5
+12,Aesthetic and Minimalist Design,5,3.4,8.8,5.4,3,9,5
+13,Content Readability,5,3.4,8.8,5.4,3,8,5
+14,Search and Discoverability,5,2.6,9.4,6.8,2,9,5
+15,Performance Perception,5,3.6,9.2,5.6,4,9,5
+16,Trust and Credibility,5,4.4,9.4,5,4,9,5
+17,Personalization,5,4.2,9.8,5.6,4,10,5
+18,User Satisfaction,5,3.4,10,6.6,3,10,5

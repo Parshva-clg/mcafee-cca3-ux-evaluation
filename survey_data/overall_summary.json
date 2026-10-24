@@ -1,0 +1,20 @@
+{
+  "participants": 5,
+  "parameters": 18,
+  "paired_ratings": 90,
+  "individual_ratings": 180,
+  "scale_min": 1,
+  "scale_max": 10,
+  "original_sum": 339,
+  "redesigned_sum": 845,
+  "original_mean": 3.7666666666666666,
+  "redesigned_mean": 9.38888888888889,
+  "mean_difference": 5.622222222222222,
+  "all_90_pairs_increase": true,
+  "duplicate_redesigned_rows": [
+    [
+      "P1",
+      "P5"
+    ]
+  ]
+}

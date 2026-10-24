@@ -1,0 +1,310 @@
+{
+  "source": "Ratings and demographics supplied by project owner in chat",
+  "received_date": "2026-10-25",
+  "questionnaire_url": "https://docs.google.com/forms/d/e/1FAIpQLSc7eJGB6o9_VOhwooSfNROTMb3ZKjcPohkvF6Cz3nCRVsu9RQ/viewform?pli=1",
+  "scale": {
+    "minimum": 1,
+    "maximum": 10,
+    "higher_is_better": true
+  },
+  "row_pairing": "Original, redesign and demographic rows paired in supplied order; P1\u2013P5 labels assigned by row order",
+  "questions": [
+    {
+      "parameter": "Learnability",
+      "question": "How easy was it to accomplish tasks the first time you encountered the design?"
+    },
+    {
+      "parameter": "Usability",
+      "question": "How efficiently and satisfactorily could you use the website?"
+    },
+    {
+      "parameter": "Consistency",
+      "question": "Were the design elements and terminology uniform throughout?"
+    },
+    {
+      "parameter": "Use of Metaphors",
+      "question": "Did the icons and concepts relate logically to the real world?"
+    },
+    {
+      "parameter": "Navigation Structure",
+      "question": "Was the flow logical and easy to follow?"
+    },
+    {
+      "parameter": "visual Hierarchy",
+      "question": "Were the most important elements easy to focus on?"
+    },
+    {
+      "parameter": "Accessibility",
+      "question": "Did the site feel usable for people with diverse abilities/needs?"
+    },
+    {
+      "parameter": "Responsiveness",
+      "question": "Did the interface react quickly to your inputs?"
+    },
+    {
+      "parameter": "Efficiency of Interaction",
+      "question": "Once you learned the design, how fast could you perform tasks?"
+    },
+    {
+      "parameter": "Feedback and System Status",
+      "question": "Did the site keep you informed about what was going on?"
+    },
+    {
+      "parameter": "Error Prevention and Recovery",
+      "question": "Did the site prevent mistakes or help you recover if you made one?"
+    },
+    {
+      "parameter": "Aesthetic and Minimalist Design",
+      "question": "Was the interface free of irrelevant or cluttered information?"
+    },
+    {
+      "parameter": "Content Readability",
+      "question": "Was the text easy to read and understand?"
+    },
+    {
+      "parameter": "Search and Discoverability",
+      "question": "How easy was it to find specific information?"
+    },
+    {
+      "parameter": "Performance Perception",
+      "question": "Did the website load and operate smoothly?"
+    },
+    {
+      "parameter": "Trust and Credibility",
+      "question": "Did the design make the service feel reliable and secure?"
+    },
+    {
+      "parameter": "Personalization",
+      "question": "Did the site offer relevant, tailored content or settings?"
+    },
+    {
+      "parameter": "User Satisfaction",
+      "question": "How pleasant was it to use this website overall?"
+    }
+  ],
+  "original": [
+    [
+      2,
+      3,
+      4,
+      3,
+      4,
+      3,
+      2,
+      3,
+      4,
+      2,
+      5,
+      4,
+      3,
+      2,
+      3,
+      4,
+      3,
+      4
+    ],
+    [
+      3,
+      4,
+      5,
+      4,
+      3,
+      4,
+      5,
+      4,
+      5,
+      6,
+      7,
+      6,
+      5,
+      4,
+      5,
+      6,
+      5,
+      3
+    ],
+    [
+      3,
+      4,
+      2,
+      1,
+      1,
+      1,
+      4,
+      5,
+      6,
+      7,
+      3,
+      2,
+      2,
+      2,
+      1,
+      3,
+      4,
+      1
+    ],
+    [
+      4,
+      3,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      5,
+      4,
+      3,
+      5,
+      4,
+      5,
+      4,
+      3,
+      2
+    ],
+    [
+      2,
+      3,
+      4,
+      5,
+      6,
+      4,
+      3,
+      2,
+      5,
+      4,
+      3,
+      2,
+      2,
+      1,
+      4,
+      5,
+      6,
+      7
+    ]
+  ],
+  "redesigned": [
+    [
+      8,
+      10,
+      9,
+      10,
+      10,
+      9,
+      10,
+      10,
+      9,
+      10,
+      10,
+      9,
+      8,
+      9,
+      9,
+      9,
+      10,
+      10
+    ],
+    [
+      10,
+      10,
+      9,
+      8,
+      9,
+      9,
+      9,
+      10,
+      10,
+      8,
+      10,
+      9,
+      10,
+      10,
+      9,
+      10,
+      10,
+      10
+    ],
+    [
+      8,
+      10,
+      9,
+      10,
+      10,
+      9,
+      10,
+      10,
+      9,
+      9,
+      9,
+      9,
+      8,
+      10,
+      9,
+      9,
+      10,
+      10
+    ],
+    [
+      9,
+      10,
+      10,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      10,
+      10,
+      8,
+      10,
+      9,
+      10,
+      10,
+      9,
+      10
+    ],
+    [
+      8,
+      10,
+      9,
+      10,
+      10,
+      9,
+      10,
+      10,
+      9,
+      10,
+      10,
+      9,
+      8,
+      9,
+      9,
+      9,
+      10,
+      10
+    ]
+  ],
+  "ages": [
+    21,
+    21,
+    20,
+    18,
+    21
+  ],
+  "gender": [
+    "male",
+    "male",
+    "male",
+    "male",
+    "male"
+  ],
+  "screen_time": [
+    "Under 4 hours",
+    "4 to 8 hours",
+    "4 to 8 hours",
+    "4 to 8 hours",
+    "Over 8 hours"
+  ]
+}
