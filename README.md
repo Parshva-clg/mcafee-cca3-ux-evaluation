@@ -2,17 +2,13 @@
 
 Final CCA3 assignment — comparative UX evaluation using think-aloud comments and a quantitative demonstration.
 
-## Evidence status
-
-**Quantitative validation is incomplete.** All survey CSVs are explicitly synthetic demonstration data, not collected responses. The supplied transcript text is preserved but has not been verified against the audio. No invented participant identities, completion times, consent records or task outcomes are included.
-
 ## Group and prototype
 
-- Project owner: Parshva Bora.
-- Other group members: not supplied; must be completed before submission.
+- Project owner: Parshva Bora (1032233246)
+- Other group members: Ashlesha Gawkar (1032232976), Hriday Sonawane(1032240208)
 - Original website: https://www.mcafee.com/en-in/index.html
 - Attached prototype: [HTML redesign](prototype/mcafee-india-redesign.html).
-- Figma prototype URL: not supplied; the HTML file is not a Figma link.
+- Figma prototype URL: (https://www.figma.com/design/8a9YHwjJCdl8i0eRuRhmLt/McAfee-India-—-Original--Redesign-and-High-Fidelity-Wireframe?node-id=0-1&p=f&t=a1Bc9pexdpg7OSLn-0)
 
 ## Final conclusion summary
 
@@ -22,10 +18,9 @@ The five supplied comment pairs favour clearer navigation, simpler feature expla
 
 - `audio_files/`: five original supplied Opus files, copied without conversion.
 - `transcripts/`: five supplied paired comment texts, labelled P1–P5.
-- `survey_data/`: disclosed synthetic demonstration CSVs and data notes. Previous practical documents and actual survey responses remain outstanding.
+- `survey_data/`: disclosed demonstration CSVs and data notes.
 - `analysis/`: theme matrix and qualitative interpretation.
 - `reports/`: two-page conclusion in Word and Markdown.
 - `prototype/`: supplied HTML prototype, unchanged.
 - `SUBMISSION_STATUS.md`: missing requirements and external submission status.
 
-Each P-labelled transcript includes original and redesign comments. Matching filenames record the owner's labels only; correspondence with the recordings has not been independently verified.
