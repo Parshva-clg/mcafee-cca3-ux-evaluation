@@ -1,0 +1,19 @@
+data_status,provisional_parameter,original_mean,prototype_mean,mean_paired_difference
+SYNTHETIC_DEMONSTRATION,Navigation clarity,3.60,3.80,0.20
+SYNTHETIC_DEMONSTRATION,Ease of finding information,2.40,3.60,1.20
+SYNTHETIC_DEMONSTRATION,Feature comprehension,2.60,2.80,0.20
+SYNTHETIC_DEMONSTRATION,Plan comparison,3.40,4.00,0.60
+SYNTHETIC_DEMONSTRATION,Visual hierarchy,3.00,3.80,0.80
+SYNTHETIC_DEMONSTRATION,Readability,3.00,3.60,0.60
+SYNTHETIC_DEMONSTRATION,Content organisation,2.80,4.00,1.20
+SYNTHETIC_DEMONSTRATION,Consistency,2.60,3.40,0.80
+SYNTHETIC_DEMONSTRATION,Perceived cognitive ease,3.00,3.40,0.40
+SYNTHETIC_DEMONSTRATION,Visibility of system feedback,3.20,3.80,0.60
+SYNTHETIC_DEMONSTRATION,Perceived control,3.40,3.60,0.20
+SYNTHETIC_DEMONSTRATION,Learnability,3.20,3.40,0.20
+SYNTHETIC_DEMONSTRATION,Task efficiency perception,3.00,4.00,1.00
+SYNTHETIC_DEMONSTRATION,Support discoverability,3.40,3.80,0.40
+SYNTHETIC_DEMONSTRATION,Trust and reassurance,2.80,3.40,0.60
+SYNTHETIC_DEMONSTRATION,Motion comfort,2.60,2.40,-0.20
+SYNTHETIC_DEMONSTRATION,Accessibility perception,2.40,3.20,0.80
+SYNTHETIC_DEMONSTRATION,Overall satisfaction,2.40,2.60,0.20
